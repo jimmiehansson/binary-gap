@@ -1,5 +1,5 @@
 # Description
-Just is a quick example solution to the binary gap prediction problem, with an algorithmic approach for performance of execution using plain javascript.
+Just is a quick example solution to the binary gap prediction problem, with an linear, non-performance example of execution using plain javascript. This is part of the unhandled performance challenge.
 
 Completion should run at an ~1.6ms average
 
