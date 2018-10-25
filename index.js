@@ -1,0 +1,10 @@
+console.time('x');
+const number = 91239883;
+const binary = number.toString(2);
+const arr = binary.split('1');
+const sorted = arr.sort().reverse();
+const result = sorted[0].length;
+console.log('The number: ', number);
+console.log('The binary cast', binary);
+console.log('Biggest binary gap: ', result);
+console.timeEnd('x');
