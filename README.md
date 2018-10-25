@@ -1,2 +1,7 @@
-# binary-gap
-This solutions aims to solve the binary gap problem with priority of performance
+# Description
+Just is a quick example solution to the binary gap prediction problem, with an algorithmic approach for performance of execution using plain javascript.
+
+Completion should run at an ?? average
+
+# Reference
+https://www.sciencedirect.com/science/article/pii/S0890540102000330
